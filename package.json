@@ -1,0 +1,15 @@
+{
+  "name": "curostres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "serve": "nodemon api/app.js"
+  },
+  "keywords": [],
+  "author": "jose alfredo figueroa sanchez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
